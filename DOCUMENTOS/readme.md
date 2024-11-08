@@ -29,3 +29,6 @@ Hora de dormir y despertar entre semana , prácticas familiares de higiene del s
 5. Percepción sobre las redes sociales y sus efectos: Impacto percibido de las redes sociales en la salud mental , conciencia sobre el diseño adictivo de las redes sociales , funcionalidades atractivas de las redes sociales , opinión sobre si las redes sociales son adictivas : Estas variables categorizan las opiniones y percepciones de los encuestados sobre el diseño de las redes sociales y cómo estas afectan su comportamiento y salud mental.
 
 6. Consecuencias del uso de redes sociales: Cambios en los hábitos de sueño , consecuencias experimentadas por el uso de redes sociales : Estas variables describen los efectos percibidos o reales del uso de redes sociales en la vida diaria de los encuestados, especialmente en sus hábitos de sueño y otros aspectos de su bienestar.
+
+
+hola
