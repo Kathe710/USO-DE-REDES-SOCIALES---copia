@@ -30,5 +30,3 @@ Hora de dormir y despertar entre semana , prácticas familiares de higiene del s
 
 6. Consecuencias del uso de redes sociales: Cambios en los hábitos de sueño , consecuencias experimentadas por el uso de redes sociales : Estas variables describen los efectos percibidos o reales del uso de redes sociales en la vida diaria de los encuestados, especialmente en sus hábitos de sueño y otros aspectos de su bienestar.
 
-
-hola
